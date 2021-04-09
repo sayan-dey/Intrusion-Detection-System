@@ -1,2 +1,3 @@
-# Intrusion-Detection-System
-Developed a network intrusion detection system. Implemented the IDS with machine learning
+# SNS Assignment 5
+Implemented Intrusion Detection System using ML.
+Go through the problem statement for better understanding.
